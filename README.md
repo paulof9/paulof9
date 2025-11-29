@@ -4,7 +4,7 @@
   Olá me chamo Paulo Victor e atualmente sou um desenvolvedor Fullstack Júnior e faço faculdade na UFES.
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulof9&theme=dark&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paulof9&theme=dark&layout=compact&hide=html,css)
 
   <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=61DAFB" alt="Linux"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
